@@ -1,0 +1,8 @@
+name: BedrockCombatPlus
+main: me.mintdino.bedrockcombatplus.BedrockCombatPlus
+version: 1.0.0
+api-version: 1.21
+author: Mint Dino
+depend:
+  - floodgate
+  
